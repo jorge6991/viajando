@@ -34,16 +34,16 @@
         <button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
         <button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
         <li class="orbit-slide is-active">
-          <img src="https://placehold.it/2000x750">
+          <img src="https://i.postimg.cc/nzvh8LhC/IMAGEM-1.jpg">
         </li>
         <li class="orbit-slide">
-          <img src="https://placehold.it/2000x750">
+          <img src="https://i.postimg.cc/x8nT9SXg/IMAGEM-2.jpg">
         </li>
         <li class="orbit-slide">
-          <img src="https://placehold.it/2000x750">
+          <img src="https://i.postimg.cc/KjfczsLb/IMAGEM-3.jpg">
         </li>
         <li class="orbit-slide">
-          <img src="https://placehold.it/2000x750">
+          <img src="https://i.postimg.cc/PfQ52N77/IMAGEM-4.jpg">
         </li>
       </ul>
     </div>
