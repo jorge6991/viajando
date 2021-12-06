@@ -36,13 +36,13 @@
         <li class="orbit-slide is-active">
           <img src="https://i.postimg.cc/nzvh8LhC/IMAGEM-1.jpg">
         </li>
-        <li class="orbit-slide">
+        <li class="orbit-slide is-active">
           <img src="https://i.postimg.cc/x8nT9SXg/IMAGEM-2.jpg">
         </li>
-        <li class="orbit-slide">
+        <li class="orbit-slide is-active">
           <img src="https://i.postimg.cc/KjfczsLb/IMAGEM-3.jpg">
         </li>
-        <li class="orbit-slide">
+        <li class="orbit-slide is-active">
           <img src="https://i.postimg.cc/PfQ52N77/IMAGEM-4.jpg">
         </li>
       </ul>
