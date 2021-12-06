@@ -18,8 +18,7 @@
         </ul>
       </div>
       <div class="top-bar-right">
-        <ul class="menu">
-          <li><a href="#">Home</a></li>          
+        <ul class="menu">         
           <li><a href="#">Trabalhe Conosco</a></li>
           <li><a href="#">Fale Conosco</a></li>
           <li><a href="#">Perguntas Frequentes</a></li>
